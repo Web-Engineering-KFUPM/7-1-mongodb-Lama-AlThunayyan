@@ -42,7 +42,8 @@
 *    - 4.2: choose shell as the connection option.
 *    - 4.3: click on the I don't have mongoDB shell installed. 
  *   - 4.4: choose windows or MacOS as operating system and install mongosh.(Take screent shot and save it in Mongo-Screen-shots/TODO-4)
- *   - 4.5: After installation setup the environment variable path.(Take screent shot and save it in Mongo-Screen-shots/TODO-4)
+ *   - 4.5: After installation 
+ * .(Take screent shot and save it in Mongo-Screen-shots/TODO-4)
  *   - 4.6: copy the connection string
  *   - 4.7: open cmd and paste the connection string to establish connection with mongoDB cloud. (Take screent shot and save it in Mongo-Screen-shots/TODO-4)
  *
